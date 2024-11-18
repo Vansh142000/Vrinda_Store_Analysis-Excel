@@ -174,6 +174,6 @@ The project successfully cleaned and processed the Vrindavan Store dataset, enab
 
 These insights can inform targeted marketing strategies, improve customer service, and optimize sales across various touchpoints.
 
-## Dasboard
+## Dashboard
 ![Excel Dashboard](https://github.com/user-attachments/assets/5250beea-8332-4726-a2c1-769792db0313)
 
