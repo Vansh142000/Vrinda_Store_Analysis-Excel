@@ -168,11 +168,10 @@ The goal of this project is to clean, preprocess, and organize a dataset from th
    - **Actionable Outcome**: With interactive slicers, users can drill down into specific data points and make faster, more informed business decisions.
 
 
-## Dashboard
-
-
 ## Conclusion
 
 The project successfully cleaned and processed the Vrindavan Store dataset, enabling better analysis and insights. By using pivot tables, charts, and interactive slicers, a dynamic dashboard was created to help visualize key business metrics such as gender-based shopping behavior, order status distribution, sales by location, and sales contribution by channel.
 
 These insights can inform targeted marketing strategies, improve customer service, and optimize sales across various touchpoints.
+
+## Dasboard
